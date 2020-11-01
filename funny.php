@@ -20,7 +20,7 @@ echo "<section>
                         <h5 class='card-title'>Новости</h5>
                         <hr class=\"my-4\" />
                         <p class='card-text'>Увеличьте свою уровень осведомленности о мире</p>
-                        <a href='#' class='btn btn-primary'>Преисполниться</a>
+                        <a href='plug.php' class='btn btn-primary'>Преисполниться</a>
                     </div>
                 </div>
             </div>
@@ -33,7 +33,7 @@ echo "<section>
                         <h5 class='card-title'>Форум</h5>
                         <hr class=\"my-4\" />  
                         <p class='card-text'>Обсудите самые важные проблемы человечества</p>
-                        <a href='#' class='btn btn-primary'>Залететь</a>
+                        <a href='plug.php' class='btn btn-primary'>Залететь</a>
                     </div>
                 </div>
             </div>
@@ -46,7 +46,7 @@ echo "<section>
                         <h5 class='card-title'>Галерея</h5>
                         <hr class=\"my-4\" />  
                         <p class='card-text'>Мультимедийный музей в одной кнопке</p>
-                        <a href='#' class='btn btn-primary'>Оценить картинку</a>
+                        <a href='plug.php' class='btn btn-primary'>Оценить картинку</a>
                     </div>
                 </div>
             </div>
@@ -65,7 +65,7 @@ echo "<section>
                     <div class='card-body'>
                         <h5 class='card-title'>Помощь по дому</h5>
                         <p class='card-text'>Нет ничего лучше, чем внезапно появившийся подручный в доме</p>
-                        <a href='#' class='btn btn-primary'>Получить</a>
+                        <a href='plug.php' class='btn btn-primary'>Получить</a>
                     </div>
                 </div>
             </div>
@@ -77,7 +77,7 @@ echo "<section>
                     <div class='card-body'>
                         <h5 class='card-title'>Помощь по дому</h5>
                         <p class='card-text'>Нет ничего лучше, чем внезапно появившийся подручный в доме</p>
-                        <a href='#' class='btn btn-primary'>Получить</a>
+                        <a href='plug.php' class='btn btn-primary'>Получить</a>
                     </div>
                 </div>
             </div>
@@ -89,7 +89,7 @@ echo "<section>
                     <div class='card-body'>
                         <h5 class='card-title'>Помощь по дому</h5>
                         <p class='card-text'>Нет ничего лучше, чем внезапно появившийся подручный в доме</p>
-                        <a href='#' class='btn btn-primary'>Получить</a>
+                        <a href='plug.php' class='btn btn-primary'>Получить</a>
                     </div>
                 </div>
             </div>

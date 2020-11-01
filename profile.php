@@ -176,7 +176,6 @@ if(isset($_GET['id'])){
                                 <div class=\"col-md-4\">
                                     <ul class=\"list-group\">
                                         <li class=\"list-group-item\">$row[last_name] $row[first_name] $row[middle_name]</li>
-                                        <li class=\"list-group-item\">Инвалид 3-группа</li>
                                         <li class=\"list-group-item\"><i class=\"fa fa-phone\"></i> $row[number] </li>
                                         <li class=\"list-group-item\"><i class=\"fa fa-envelope\"></i> $row[email]</li>
                                         <li class=\"list-group-item\"><i class=\"fa fa-envelope\"></i> $_SESSION[id_status_user]</li>
@@ -227,7 +226,6 @@ else {
                                 <div class=\"col-md-4\">
                                     <ul class=\"list-group\">
                                         <li class=\"list-group-item\">$_SESSION[last_name] $_SESSION[first_name] $_SESSION[middle_name]</li>
-                                        <li class=\"list-group-item\">Инвалид 3-группа</li>
                                         <li class=\"list-group-item\"><i class=\"fa fa-phone\"></i> $_SESSION[number] </li>
                                         <li class=\"list-group-item\"><i class=\"fa fa-envelope\"></i> $_SESSION[email]</li>
                                         <li class=\"list-group-item\"><i class=\"fa fa-envelope\"></i> $_SESSION[id_status_user]</li>

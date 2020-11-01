@@ -43,7 +43,7 @@ echo "
                         <img src=\"assets/images/mbr.jpg\" alt=\"\" title=\"\">
                     </div>
                     <div class=\"item-content\">
-                        <h5 class=\"item-title mbr-fonts-style display-5\"><strong>Помощь</strong></h5>
+                        <h5 class=\"item-title mbr-fonts-style display-5\"><strong>Просьба о помощи</strong></h5>
                         <h6 class=\"item-subtitle mbr-fonts-style mt-1 display-7\">Сделай добро</h6>
                         <p class=\"mbr-text mbr-fonts-style mt-3 display-7\">Люди с ОВЗ могут нуждаться в твоей помощи. Прочти их историю и помоги сделать их жизнь светлее.</p>
                     </div>

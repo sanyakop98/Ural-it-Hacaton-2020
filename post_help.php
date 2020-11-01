@@ -7,6 +7,7 @@ include ('config/meta.php');
 echo '<script src="https://code.jquery.com/jquery-latest.js"></script>
     <script>
         function changeFind(){
+            
             var obj = document.getElementById("find");
             var str = obj.value;        
             $.ajax({
@@ -34,9 +35,11 @@ echo '
    <br>
             ';
 echo "<input type='text' name='find' id='find' class='form-control' style='max-width: 300px;  ' placeholder='Поиск по тегам' oninput='changeFind()'><br>";
-echo "<div id='help'>
+echo "<div id='helps'>
 
 </div>";
+
+/*
 $mysqli = ConnectDB();
 
 if (!$res=$mysqli->query("Call GetPostHelp()")) {
@@ -99,7 +102,7 @@ while($row = $res->fetch_assoc()) {
 ";
 }
 
-
+*/
 
 
 
